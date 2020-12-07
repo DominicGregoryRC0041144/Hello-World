@@ -38,7 +38,7 @@
             this.Button1.Name = "Button1";
             this.Button1.Size = new System.Drawing.Size(75, 23);
             this.Button1.TabIndex = 0;
-            this.Button1.Text = "Goodbye";
+            this.Button1.Text = "Welcome";
             this.Button1.UseVisualStyleBackColor = true;
             this.Button1.Click += new System.EventHandler(this.Button1_Click);
             // 
